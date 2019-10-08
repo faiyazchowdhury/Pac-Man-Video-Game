@@ -1,0 +1,50 @@
+		MBED PACMAN FEATURE CHECKLIST
+
+
+Student Name: _Faiyaz Chowdhury____
+
+BASIC GAME FUNCTIONALITY
+
+__Done__  Pacman movement
+
+__Done__  Eating cookies
+
+__Done__  Eating super-cookies
+
+__Done__  Detecting run-in with a ghost and Game Over
+
+__Done__  Displaying number of pacman lives remaining
+
+__Done__  Displaying score (number of points collected so far)
+
+__Done__  Advancing levels
+
+__Done__  Force level advance
+
+EXTRA FEATURES
+
+__Done__  More dramatic death of pacman/ghost
+
+__Done__  Show number of lives remaining in icons
+
+____  Add ephemeral fruit
+
+____  Superghost
+
+__Done__  Add new hardware to do something interesting
+
+__Done__  Include a Game Menu for configuring the game
+
+__Done__  Keep track of game history and show in an interesting way
+
+____  Make ghosts smarter
+
+__Done__  Add sound effects
+
+__Done__  Use pushbuttons to create a new feature
+
+__Done__  Other: (please describe) 
+
+Pause (Down Button)
+Rotate maze in user's control (DIZZY!)
+Restore rotation (Up)
